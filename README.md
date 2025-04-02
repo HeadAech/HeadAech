@@ -41,8 +41,14 @@ A detective story-driven game I've made with my team for ZTGK competition at Lod
 ## More...
 
 I encourage you to visit my repositories and find out more about my work. 
-Some other projects you would be interested in:
+
+Some projects you would be interested in:
+
 - 🦜 [Pairrot Jump](https://github.com/HeadAech/2dgk) - a 2D platformer game 🎮 made using SDL framework in C++,
 - ❌ [InfiniteTicTacToe](https://github.com/HeadAech/InfiniteTicTacToe) - a mobile game 📱 inspired by original Tic Tac Toe game with a twist, made in Godot Engine,
 - 🖥️ [Graphics Programming](https://github.com/HeadAech/graphics-programming) - project made during "Graphics Programming" course, a small OpenGL game engine,
 - dBengine - a *currently* 🔒 private repository containing fully-fledged game engine 👾. My goal is to make it public, so people can learn on my mistakes, when it's *ready*™️.
+
+#### Other...
+
+- [Sudoku](https://github.com/HeadAech/Java-SudokuFromScratch) - a desktop sudoku game made in Java ☕️.
