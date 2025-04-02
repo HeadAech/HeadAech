@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Hubert Klonowski. I'm a student of Computer Science specializing in Game Technologies and Computer Simulations at Lodz University of Technology.
+My name is Hubert Klonowski. I'm a Computer Science student specializing in Game Technologies and Computer Simulations at Lodz University of Technology.
 
 ### Find me here:
 
