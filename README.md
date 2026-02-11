@@ -47,7 +47,7 @@ Some projects you would be interested in:
 - 🦜 [Pairrot Jump](https://github.com/HeadAech/2dgk) - a 2D platformer game 🎮 made using SDL framework in C++,
 - ❌ [InfiniteTicTacToe](https://github.com/HeadAech/InfiniteTicTacToe) - a mobile game 📱 inspired by original Tic Tac Toe game with a twist, made in Godot Engine,
 - 🖥️ [Graphics Programming](https://github.com/HeadAech/graphics-programming) - project made during "Graphics Programming" course, a small OpenGL game engine,
-- [dBengine](https://github.com/HeadAech/dBengine-public) - a repository containing fully-fledged game engine 👾. Still WIP.
+- [dBengine](https://github.com/HeadAech/dBengine-public) - a repository containing fully-fledged game engine 👾. Still WIP. (Won AMD's award at ZTGK Challenge)
 
 #### Other...
 
