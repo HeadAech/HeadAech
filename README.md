@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Hubert Klonowski. I'm a Computer Science student specializing in Game Technologies and Computer Simulations at Lodz University of Technology.
+My name is Hubert Klonowski. I'm an engineer in Computer Science specializing in Game Technologies and Computer Simulations, graduated at Lodz University of Technology.
 
 ### Find me here:
 
@@ -12,9 +12,9 @@ Hubert Klonowski @ <b>LinkedIn</b></a>
 
 # Status
 
-🔭 I’m currently working on a <b>game engine</b> and a game made in it.
+🔭 I’m currently working on 2 games for ZTGK Challenge.
 <br>
-🌱 I’m currently learning OpenGL and rendering principles.
+🌱 Leveling up my skills in game development.
 
 # Try my games
 
