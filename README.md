@@ -1,10 +1,10 @@
 # Hi there 👋
 
-My name is Hubert Klonowski. I'm an engineer in Computer Science specializing in Game Technologies and Computer Simulations, graduated at Lodz University of Technology.
+My name is Hubert Klonowski. I'm an engineer in Computer Science specializing in Game Technologies and Computer Simulations, graduated from Lodz University of Technology.
 
 ### Find me here:
 
-<a href="https://www.linkedin.com/in/hubert-klonowski-4610b41a4/"><img src="https://github.com/user-attachments/assets/c52e7d84-ab28-4651-a25a-2b8ee21d41ec" width="24"/>
+<a href="https://www.linkedin.com/in/hubert-klonowski/"><img src="https://github.com/user-attachments/assets/c52e7d84-ab28-4651-a25a-2b8ee21d41ec" width="24"/>
 Hubert Klonowski @ <b>LinkedIn</b></a>
 <br/>
 
@@ -12,9 +12,18 @@ Hubert Klonowski @ <b>LinkedIn</b></a>
 
 # Status
 
-🔭 I’m currently working on 2 games for ZTGK Challenge.
+🔭 I’m currently working on 2 games (VR and mobile) for ZTGK Challenge.
 <br>
 🌱 Leveling up my skills in game development.
+
+# Main event - dBengine
+
+<img width="1802" height="932" alt="editor" src="https://github.com/user-attachments/assets/3f31c8a9-5034-4ce6-81b6-d4c762489210" />
+
+
+AMD's award winning game engine is ready for public to see. Based on OpenGL it allows developers to create 3D games thanks to its multiple tools and functionalities. You can read more [here](https://headaech.github.io/src/projects/dbengine).
+
+[Go to dBengine's repository](https://github.com/HeadAech/dBengine-public).
 
 # Try my games
 
@@ -32,7 +41,7 @@ It's a mix of two genres - strategy and arcade. **Why?** ... *you'll have to fin
 
 ## Beyond The Veil 🔍
 
-A detective story-driven game I've made with my team for ZTGK competition at Lodz University of Technology. It's best experienced with headphones on.
+A detective story-driven game I've made with my team for ZTGK challenge at Lodz University of Technology. It's best experienced with headphones on.
 
 <img src="https://github.com/user-attachments/assets/fcf2cc9b-b8f6-4510-a2cc-a11af386b201" width="526"/>
 
@@ -47,7 +56,6 @@ Some projects you would be interested in:
 - 🦜 [Pairrot Jump](https://github.com/HeadAech/2dgk) - a 2D platformer game 🎮 made using SDL framework in C++,
 - ❌ [InfiniteTicTacToe](https://github.com/HeadAech/InfiniteTicTacToe) - a mobile game 📱 inspired by original Tic Tac Toe game with a twist, made in Godot Engine,
 - 🖥️ [Graphics Programming](https://github.com/HeadAech/graphics-programming) - project made during "Graphics Programming" course, a small OpenGL game engine,
-- [dBengine](https://github.com/HeadAech/dBengine-public) - a repository containing fully-fledged game engine 👾. Still WIP. (Won AMD's award at ZTGK Challenge)
 
 #### Other...
 
