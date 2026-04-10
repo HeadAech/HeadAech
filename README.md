@@ -12,11 +12,11 @@ Hubert Klonowski @ <b>LinkedIn</b></a>
 
 # Status
 
-🔭 I’m currently working on 2 games (VR and mobile) for ZTGK Challenge.
+🎯 I’m currently working on 2 games (VR and mobile) for ZTGK Challenge.
 <br>
-🌱 Leveling up my skills in game development.
+🎮 Learning Unreal Engine 5.
 
-# Main event - dBengine
+# dBengine - advanced game engine
 
 <img width="1802" height="932" alt="editor" src="https://github.com/user-attachments/assets/3f31c8a9-5034-4ce6-81b6-d4c762489210" />
 
@@ -55,8 +55,10 @@ Some projects you would be interested in:
 
 - 🦜 [Pairrot Jump](https://github.com/HeadAech/2dgk) - a 2D platformer game 🎮 made using SDL framework in C++,
 - ❌ [InfiniteTicTacToe](https://github.com/HeadAech/InfiniteTicTacToe) - a mobile game 📱 inspired by original Tic Tac Toe game with a twist, made in Godot Engine,
+- 👶 [Processing Isaac](https://github.com/HeadAech/processing_isaac) - The Binding of Isaac (demo) recreated in processing,
 - 🖥️ [Graphics Programming](https://github.com/HeadAech/graphics-programming) - project made during "Graphics Programming" course, a small OpenGL game engine,
 
 #### Other...
 
-- [Sudoku](https://github.com/HeadAech/Java-SudokuFromScratch) - a desktop sudoku game made in Java ☕️.
+- [Sudoku](https://github.com/HeadAech/Java-SudokuFromScratch) - a desktop sudoku game made in Java ☕️,
+- [Chess](https://github.com/HeadAech/CPP-ChessFromScratch) - chess (PvP & PvCPU) written in C++.
